@@ -1,14 +1,13 @@
-# Hi there! 👋 I'm Poramate.
+# Hi, I'm Poramate 👋
 
-### About Me
+I am a Computer Science student at **NIDA** focused on the intersection of **AI/ML** and **Networking**. 
 
-I'm learning programming with a main focus on backend-development and ML integration. I'm constantly learning and exploring new technologies to improve my craft.
+### 🛠 Tools & Technologies
+- **Languages:** Python, MySQL
+- **Cloud:** AWS (Certified Cloud Practitioner ☁️)
+- **Interests:** AI/ML Integration, Networking
 
-### Skills
+### 🔭 Current Focus
+- Exploring the intersection of Machine Learning and Cloud infrastructure; specifically building with AWS and Python.
 
-* **Frontend:** Html, CSS, Javascript
-* **Backend:** Python, Django
-* **Databases:** PostgreSQL
-* **Other:** Git
-
-Thanks for visiting my profile! 😊
+https://www.linkedin.com/in/poramate-chotvararak/
