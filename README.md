@@ -9,5 +9,3 @@ I am a Computer Science student at **NIDA** focused on the intersection of **AI/
 
 ### 🔭 Current Focus
 - Exploring the intersection of Machine Learning and Cloud infrastructure; specifically building with AWS and Python.
-
-https://www.linkedin.com/in/poramate-chotvararak/
